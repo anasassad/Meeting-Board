@@ -1,4 +1,4 @@
-# Meeting-Board
+# Live Meeting Comments
 ## Getting Started
 
    - **Base URL:** At present this app can only run locally without any restrictions *(It just need to fulfill the requirements below)* .The backend app is hosted 
